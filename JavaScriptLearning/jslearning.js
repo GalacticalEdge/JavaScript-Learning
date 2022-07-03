@@ -7,3 +7,5 @@ function myFunction() {
 }
 
 // Left off on JS Statements
+
+// Left off on JS Variables - 7-3-22
