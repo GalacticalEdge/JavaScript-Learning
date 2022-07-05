@@ -11,3 +11,9 @@ function myFunction() {
 // Left off on JS Variables - 7-3-22
 
 // Left off on JS Assignment
+
+function myFunction(p1, p2) {
+    return p1 * p2
+}
+
+// Left off on JS Objects
