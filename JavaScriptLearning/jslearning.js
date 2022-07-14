@@ -42,3 +42,20 @@ function myFunction() {
             return a * b;
         }
 }
+
+function myFunction() {
+    document.getElementById("JohnDoe").innerHTML = "John" + " " + "Doe";
+}
+
+function myFunction() {
+    let x = 100 + 50;
+        document.getElementById("let").innerHTML = x;
+}
+
+function myFunction() {
+    let car = "Toyota"
+
+    const car = {type:"Toyata", model:"Prius", color:"Silver"};
+
+    document.getElementById("Car").innerHTML = "The car type is " + car.type;
+}
